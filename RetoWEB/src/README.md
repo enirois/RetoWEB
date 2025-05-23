@@ -5,9 +5,14 @@ Esta aplicación web presenta a los integrantes del equipo y sus pasatiempos, ac
 
 ## Roles
 - Líder de proyecto: Bruno Diaz
-- Diseñador UI: Daniel Villareal
+- Diseñador UI: Daniel Villarreal
 - Front-end developer: Fernando Chaves
 - Tester/documentador: Jose Luis Guzman
 
 ## Instalación y uso
 1. Clona el repositorio: https://github.com/enirois/RetoWEB
+
+## Versión en vivo
+
+[https://enirois.github.io/RetoWEB](https://enirois/RetoWEB)
+
